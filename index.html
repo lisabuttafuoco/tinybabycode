@@ -5,6 +5,18 @@
     <title> Tiny Baby Code </title> 
     <style>
       
+      blink {
+    0%   {opacity: 1;}
+    25%  {opacity: 0;}
+    50%  {opacity: 1;}
+    100% {opacity: 0;}
+}
+
+p.blink {
+    animation-name: blink;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
 
             p{
         left: 0;
