@@ -1,2 +1,2 @@
-# tinybabycode
-what it do
+# I forgot what hotdogs look like!
+
